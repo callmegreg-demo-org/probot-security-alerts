@@ -1,1 +1,2 @@
 pattern123
+pattern345
