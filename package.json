@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "got": "^12.6.0",
-    "probot": "^12.3.0"
+    "probot": "^14.3.2"
   },
   "devDependencies": {
     "@types/jest": "^29.4.0",
